@@ -10,6 +10,6 @@ Conversations that I had
 
 Conversations others in my network had.
 
-## Sonnet
+## [Sonnet](OTHERS/SONNET/Sonnet.md)
 
 
